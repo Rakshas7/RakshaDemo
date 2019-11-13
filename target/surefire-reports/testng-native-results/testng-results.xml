@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="56" started-at="2019-07-08T17:48:02Z" finished-at="2019-07-08T17:48:02Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="56" started-at="2019-07-08T17:48:02Z" finished-at="2019-07-08T17:48:02Z">
+      <class name="quicklearning.MavenProject.SeleniumTest">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:quicklearning.MavenProject.SeleniumTest@783e6358]" name="demo1" duration-ms="0" started-at="2019-07-08T17:48:02Z" finished-at="2019-07-08T17:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="demo2()[pri:0, instance:quicklearning.MavenProject.SeleniumTest@783e6358]" name="demo2" duration-ms="2" started-at="2019-07-08T17:48:02Z" finished-at="2019-07-08T17:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- quicklearning.MavenProject.SeleniumTest -->
+      <class name="quicklearning.MavenProject.AppiumTest">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:quicklearning.MavenProject.AppiumTest@13fee20c]" name="demo1" duration-ms="12" started-at="2019-07-08T17:48:02Z" finished-at="2019-07-08T17:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="demo2()[pri:0, instance:quicklearning.MavenProject.AppiumTest@13fee20c]" name="demo2" duration-ms="0" started-at="2019-07-08T17:48:02Z" finished-at="2019-07-08T17:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- quicklearning.MavenProject.AppiumTest -->
+      <class name="quicklearning.MavenProject.RestAssuredAPITest">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:quicklearning.MavenProject.RestAssuredAPITest@4e04a765]" name="demo1" duration-ms="1" started-at="2019-07-08T17:48:02Z" finished-at="2019-07-08T17:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="demo2()[pri:0, instance:quicklearning.MavenProject.RestAssuredAPITest@4e04a765]" name="demo2" duration-ms="1" started-at="2019-07-08T17:48:02Z" finished-at="2019-07-08T17:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- quicklearning.MavenProject.RestAssuredAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
